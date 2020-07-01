@@ -1,1 +1,1 @@
-# OracleScripts
+# Useful Oracle SQL scripts
